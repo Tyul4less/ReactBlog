@@ -1,0 +1,40 @@
+.template{
+    margin-right: auto;
+    margin-left: auto;
+    width: 1100px;
+    height: 100%;
+
+}
+.title{
+    position: relative;
+    border:white 2px solid;
+    border-radius: 15px;
+    width: auto;
+    height: 250px;
+    text-align: center;
+    line-height: 230px;
+    font-size: 50px;
+    color:white;
+/*    background-image:url('../content/wp3215790.jpg');*/
+    background-repeat: no-repeat;
+    background-size : cover;
+    background-image: linear-gradient(rgba(0, 0, 180, 0.1), rgba(0, 0, 150, 0.1)),url('../content/wp3215790cut.jpg')
+}
+.menu{
+    margin-top:10px;
+    margin-right:10px;
+    margin-left:5px;
+    border-radius: 15px;
+    width: 170px;
+    height: auto;
+    float: left;
+    position:relative;
+    box-shadow: 4px 4px 6px 2px rgba(93, 93, 93, 0.5);
+    background-color: white;
+}
+html{
+    background-color: rgba(140, 190, 230, 1);
+}
+.content{
+
+}

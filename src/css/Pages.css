@@ -1,0 +1,39 @@
+.pageDiv{
+    position: relative;
+    margin-top: -355px;
+    margin-left: 210px;
+    border-radius: 15px;
+    min-height: 550px;
+    background: white;
+    box-shadow: 4px 4px 10px 4px rgba(189, 189, 189, 0.4);
+    opacity: 90%;
+    padding: 10px 10px 10px 10px;
+}
+
+.pageContent{
+    text-align: center;
+    font-size: 20px;
+}
+
+.contentImg{
+    max-width:500px;
+    max-height:500px;
+}
+
+.errorDiv{
+    margin-left: 35%;
+    margin-top:100px;
+    width: 500px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+.miningShiba{
+    max-width:50px;
+    max-height:50px;
+}
+
+.errorText{
+    margin:40px;
+    text-align: center;
+}

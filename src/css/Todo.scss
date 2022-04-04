@@ -1,0 +1,30 @@
+.addBtn{
+  background-image: linear-gradient(to right, #a1c4fd 0%, #c2e9fb 51%, #a1c4fd 100%);
+  border-radius: 8px;
+  border: none;
+  width: 85px;
+  height: 40px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  transition: 0.5s;
+  background-size: 200% auto;
+  margin-left: 5px;
+}
+
+.addBtn:hover {
+  background-position: right center; /* change the direction of the change here */
+}
+
+.trashIcon{
+  margin-top:5px;
+  margin-left:5px;
+  align-items: center;
+  justify-content: center;
+  color: #dee2e6;
+  font-size: 24px;
+  cursor: pointer;
+  &:hover {
+    color: #ff6b6b;
+  }
+}
